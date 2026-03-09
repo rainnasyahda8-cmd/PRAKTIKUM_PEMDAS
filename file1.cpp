@@ -5,5 +5,5 @@ int main (){
     int x;
 
     srand(time(0));
-    x =
+    x = rand() % 10;
 }
